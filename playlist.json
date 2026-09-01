@@ -1,3 +1,4 @@
+
 {
   "type": "list",
   "headline": "Filmy",
@@ -10,15 +11,24 @@
   "items": [
     {
       "title": "The Ring Two",
-      "action": "video:https://www.googleapis.com/drive/v3/files/143SwyjioW4aiB024Zd8xeNcasjls68fN?alt=media&key=AIzaSyAr-VJQGK_bqQUZGuSLBLKozvaKfYOkUek"
+      "action": "video:plugin:https://msx.benzac.de/plugins/html5x.html?url=https%3A%2F%2Fwww.googleapis.com%2Fdrive%2Fv3%2Ffiles%2F143SwyjioW4aiB024Zd8xeNcasjls68fN%3Falt%3Dmedia%26key%3DAIzaSyAr-VJQGK_bqQUZGuSLBLKozvaKfYOkUek",
+      "properties": {
+        "html5x:subtitle:cs:Čeština": "https://raw.githubusercontent.com/TomJukl/msx/main/subtitles/The%20Ring%20Two.vtt"
+      }
     },
     {
       "title": "Mr and Mrs Smith",
-      "action": "video:https://www.googleapis.com/drive/v3/files/1D5Z0bFOEvvqUz7li_xFXtDoqW_zr_5gF?alt=media&key=AIzaSyAr-VJQGK_bqQUZGuSLBLKozvaKfYOkUek"
+      "action": "video:plugin:https://msx.benzac.de/plugins/html5x.html?url=https%3A%2F%2Fwww.googleapis.com%2Fdrive%2Fv3%2Ffiles%2F1D5Z0bFOEvvqUz7li_xFXtDoqW_zr_5gF%3Falt%3Dmedia%26key%3DAIzaSyAr-VJQGK_bqQUZGuSLBLKozvaKfYOkUek",
+      "properties": {
+        "html5x:subtitle:cs:Čeština": "https://raw.githubusercontent.com/TomJukl/msx/main/subtitles/Mr%20and%20Mrs%20Smith.vtt"
+      }
     },
     {
       "title": "Fall",
-      "action": "video:https://www.googleapis.com/drive/v3/files/1V338Y5tTParxQEpIcrWeKB0ICWV7RZCO?alt=media&key=AIzaSyAr-VJQGK_bqQUZGuSLBLKozvaKfYOkUek"
+      "action": "video:plugin:https://msx.benzac.de/plugins/html5x.html?url=https%3A%2F%2Fwww.googleapis.com%2Fdrive%2Fv3%2Ffiles%2F1V338Y5tTParxQEpIcrWeKB0ICWV7RZCO%3Falt%3Dmedia%26key%3DAIzaSyAr-VJQGK_bqQUZGuSLBLKozvaKfYOkUek",
+      "properties": {
+        "html5x:subtitle:cs:Čeština": "https://raw.githubusercontent.com/TomJukl/msx/main/subtitles/Fall.vtt"
+      }
     }
   ]
 }
