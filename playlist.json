@@ -1,4 +1,3 @@
-
 {
   "type": "list",
   "headline": "Filmy",
@@ -10,11 +9,11 @@
   },
   "items": [
     {
-      "title": "Ring 2 2025",
+      "title": "The Ring Two",
       "action": "video:https://www.googleapis.com/drive/v3/files/143SwyjioW4aiB024Zd8xeNcasjls68fN?alt=media&key=AIzaSyAr-VJQGK_bqQUZGuSLBLKozvaKfYOkUek"
     },
     {
-      "title": "Mr. and Mrs. Smith (2005)",
+      "title": "Mr and Mrs Smith",
       "action": "video:https://www.googleapis.com/drive/v3/files/1D5Z0bFOEvvqUz7li_xFXtDoqW_zr_5gF?alt=media&key=AIzaSyAr-VJQGK_bqQUZGuSLBLKozvaKfYOkUek"
     },
     {
