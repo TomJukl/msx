@@ -1,5 +1,5 @@
 {
-    "name": "Filmy",
-    "version": "1.0.0",
-    "parameter": "menu:https://raw.githubusercontent.com/TomJukl/msx/main/playlist.json"
+  "name": "Filmy",
+  "version": "1.0.0",
+  "parameter": "content:https://raw.githubusercontent.com/TomJukl/msx/main/playlist.json"
 }
