@@ -1,0 +1,5 @@
+{
+    "name": "Filmy",
+    "version": "1.0.0",
+    "parameter": "menu:https://raw.githubusercontent.com/TomJukl/msxfilmy/main/playlist.json"
+}
