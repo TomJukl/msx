@@ -2,23 +2,23 @@
 {
   "type": "list",
   "headline": "Filmy",
+  "template": {
+    "type": "separate",
+    "layout": "0,0,3,4",
+    "icon": "msx-white-soft:movie",
+    "color": "msx-glass"
+  },
   "items": [
     {
       "title": "Ring 2 2025",
-      "label": "Ring 2 2025",
-      "icon": "movie",
       "action": "video:https://www.googleapis.com/drive/v3/files/143SwyjioW4aiB024Zd8xeNcasjls68fN?alt=media&key=AIzaSyAr-VJQGK_bqQUZGuSLBLKozvaKfYOkUek"
     },
     {
       "title": "Mr. and Mrs. Smith (2005)",
-      "label": "Mr. and Mrs. Smith (2005)",
-      "icon": "movie",
       "action": "video:https://www.googleapis.com/drive/v3/files/1D5Z0bFOEvvqUz7li_xFXtDoqW_zr_5gF?alt=media&key=AIzaSyAr-VJQGK_bqQUZGuSLBLKozvaKfYOkUek"
     },
     {
       "title": "Fall",
-      "label": "Fall",
-      "icon": "movie",
       "action": "video:https://www.googleapis.com/drive/v3/files/1V338Y5tTParxQEpIcrWeKB0ICWV7RZCO?alt=media&key=AIzaSyAr-VJQGK_bqQUZGuSLBLKozvaKfYOkUek"
     }
   ]
